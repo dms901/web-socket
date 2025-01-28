@@ -52,8 +52,8 @@ Dengan project ini, kami bertujuan untuk menciptakan sebuah aplikasi web yang me
 <td><h3 align="center">Matikan andon</h3><img src="foto_new/ke6.png"></td>
 </tr>
 <tr>
-<td><h3 align="center">ESP8266 Menerima pesan dan aktif</h3><img src="foto_new/ke8.png"></td>
-<td><h3 align="center">ESP8266 Menerima pesan nonaktif</h3><img src="foto_new/ke7.png"></td>
+<td><h3 align="center">ESP8266 Menerima pesan dan aktif</h3><img src="foto_new/ke8.jpg"></td>
+<td><h3 align="center">ESP8266 Menerima pesan nonaktif</h3><img src="foto_new/ke7.jpg"></td>
 </tr>
 </table>
 
