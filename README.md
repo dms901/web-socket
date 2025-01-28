@@ -40,20 +40,20 @@ Dengan project ini, kami bertujuan untuk menciptakan sebuah aplikasi web yang me
 ## Screenshot
 <table width="100%">
 <tr>
-<td><h3 align="center">Input departement</h3><img src="foto/Awal (2).png"></td>
-<td><h3 align="center">Connect departement/Topic Mqtt Broker</h3><img src="foto/ke 2.png"></td>
+<td><h3 align="center">Input departement</h3><img src="foto_new/Awal (2).png"></td>
+<td><h3 align="center">Connect departement/Topic Mqtt Broker</h3><img src="foto_new/ke 2.png"></td>
 </tr>
 <tr>
-<td><h3 align="center">Input jenis produk/prat</h3><img src="foto/ke3.png"></td>
-<td><h3 align="center">Input semua informasi abnormal</h3><img src="foto/ke4.png"></td>
+<td><h3 align="center">Input jenis produk/prat</h3><img src="foto_new/ke3.png"></td>
+<td><h3 align="center">Input semua informasi abnormal</h3><img src="foto_new/ke4.png"></td>
 </tr>
 <tr>
-<td><h3 align="center">Aktifkan andon</h3><img src="foto/ke5.png"></td>
-<td><h3 align="center">Matikan andon</h3><img src="foto/ke6.png"></td>
+<td><h3 align="center">Aktifkan andon</h3><img src="foto_new/ke5.png"></td>
+<td><h3 align="center">Matikan andon</h3><img src="foto_new/ke6.png"></td>
 </tr>
 <tr>
-<td><h3 align="center">ESP8266 Menerima pesan dan aktif</h3><img src="foto/ke8.png"></td>
-<td><h3 align="center">ESP8266 Menerima pesan nonaktif</h3><img src="foto/ke7.png"></td>
+<td><h3 align="center">ESP8266 Menerima pesan dan aktif</h3><img src="foto_new/ke8.png"></td>
+<td><h3 align="center">ESP8266 Menerima pesan nonaktif</h3><img src="foto_new/ke7.png"></td>
 </tr>
 </table>
 
