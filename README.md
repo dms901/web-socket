@@ -55,14 +55,6 @@ Dengan project ini, kami bertujuan untuk menciptakan sebuah aplikasi web yang me
 <td><h3 align="center">ESP8266 Menerima pesan dan aktif</h3><img src="foto/ke8.png"></td>
 <td><h3 align="center">ESP8266 Menerima pesan nonaktif</h3><img src="foto/ke7.png"></td>
 </tr>
-<tr>
-<td><h3 align="center">Menu Hodie Pria</h3><img src="foto/pria_hodie.png"></td>
-<td><h3 align="center">Menu Gamis Wanita</h3><img src="foto/wanita_gamis.png"></td>
-</tr>
-<tr>
-<td><h3 align="center">Menu Baju Wanita</h3><img src="foto/wanita_baju.png"></td>
-<td><h3 align="center">Menu Celana Wanita</h3><img src="foto/wanita_celana.png"></td>
-</tr>
 </table>
 
 ## Lisensi
