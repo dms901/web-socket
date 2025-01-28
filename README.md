@@ -1,7 +1,4 @@
-# E-Commerce Fashion
-
-<p align="center"><img src="foto/Logo UBSI.png" width="200" alt="Logo UBSI"></p>
-
+# DASHBOARD ANDON MQTT BROKER
 
 ## Pengenalan Project
 
